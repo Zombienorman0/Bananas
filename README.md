@@ -1,2 +1,2 @@
-# Bananas are Bananas
+# Bananas
 all for science (who am I)
